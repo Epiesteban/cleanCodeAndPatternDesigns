@@ -7,3 +7,7 @@
 /CatFactory.class
 /DogFactory.class
 /ParrotFactory.class
+<<<<<<< HEAD
+=======
+/UseAbstractFactory.class
+>>>>>>> 05c4f91... master: add abstractFactory design pattern

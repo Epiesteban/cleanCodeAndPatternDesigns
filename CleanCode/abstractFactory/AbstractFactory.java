@@ -1,5 +1,7 @@
 package abstractFactory;
 
 public interface AbstractFactory {
-	public AbstractFactory getFactory();
+
+	public AbstractAnimal getFactory();
+	
 }
