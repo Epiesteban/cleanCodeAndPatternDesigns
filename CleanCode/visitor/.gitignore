@@ -1,0 +1,14 @@
+/TouristVisitor.class
+/VisitableCity.class
+/CityA.class
+/CityB.class
+/Client.class
+/CarElement.class
+/CarElementVisitor.class
+/Wheel.class
+/Engine.class
+/Body.class
+/Car.class
+/CarElementCleanVisitor.class
+/CarElementBreakVisitor.class
+/UseVisitor.class
